@@ -10,6 +10,7 @@ To see the running processes, you can use the command: ps aux | grep python
 
 After all these steps, use these commands to restart the process
 tail -f nohup.out 
+
 nohup python your_file &
 
-Translated with DeepL.com (free version)
+
