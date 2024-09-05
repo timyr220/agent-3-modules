@@ -7,7 +7,7 @@ import test2  # Модуль для роботи з пристроями
 import test1  # Модуль для роботи з профілями пристроїв
 
 TEAMCITY_URL = "your_url"
-TELEGRAM_BOT_TOKEN = "7485786731:AAEAPqBc68FqlN9aA4N8mqcY3x4pp6OfTJc"
+TELEGRAM_BOT_TOKEN = "123c"
 JSON_FILE = 'your_file.json'
 
 users = set()
