@@ -1,4 +1,4 @@
-Вот готовый файл `README.md` для GitHub, который ты можешь скопировать и вставить:
+
 
 ```markdown
 # Python Script Background Execution on Raspberry Pi
